@@ -1,4 +1,4 @@
-# "AIonCloud" for Developers
+# "AI on Cloud" for Developers
 # Getting started with Data Governance to Model management using IBM Cloud
 
 Unlock the power of AI with IBM Cloud
