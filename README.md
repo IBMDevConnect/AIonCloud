@@ -19,6 +19,11 @@ Unlock the power of AI with IBM Cloud
 
   - Lab 4: Deploy your Model as API Using WML Pipeline
 
+In this Lab , we will discuss about building a predictive model using a credit history based dataset.
+Data is fit using the RF approach to create the predictive Model.
+
+Python notebook can be downoaded from here...https://github.com/krishnac7/theWatsonStudioExperience/blob/master/notebooks/loanEligibilityWML.ipynb
+
   - Lab 5: Data Model – Build a Recommendation Engine
 
   - Lab 6: Deep Learning – Build a GAN based
