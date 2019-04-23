@@ -26,8 +26,9 @@ Python notebook can be downoaded from here...https://github.com/krishnac7/theWat
 
   - Lab 5: Data Model – Build a Recommendation Engine
 
-  - Lab 6: Deep Learning – Build a GAN based
-
+  - Lab 6: Deep Learning – Feature Extraction and Reverse Image Search on Caltech-101 Dataset
+  In this Lab, we  will guide you through the process of analyzing an image dataset using a pre-trained convolution network (VGG16) and extracting feature vectors for each image
+https://github.com/krishnac7/Reverse_image_search
   - Lab 7: Build and Train – Distributed Environment
 
   - Lab 8: Computer Vision – Accelerated WML
