@@ -18,15 +18,17 @@ Unlock the power of AI with IBM Cloud
   - Lab 3: Data Preprocessing 
 
   - Lab 4: Deploy your Model as API Using WML Pipeline
-
+  
 In this Lab , we will discuss about building a predictive model using a credit history dataset.
 Data is fit using Random forests Pipeline to create the predictive Model and then is deployed on IBM Cloud as an API End Point Using Watson Machine Learning Service.[Jump to the Lab Notebook](https://github.com/krishnac7/theWatsonStudioExperience/blob/master/notebooks/loanEligibilityWML.ipynb
 )
 
   - Lab 5: Data Model – Build a Recommendation Engine
+  
   In this Lab, We will use Shopping history dataset to create a basic Recommendation Engine and deploy it as an API service for developers to consume directly using wml.We will also creagte an interactive Pixie Apps dashboard within the notebook.[Jump to the notebook](https://github.com/krishnac7/theWatsonStudioExperience/blob/master/notebooks/Product_Recommendation_app.ipynb)
 
   - Lab 6: Deep Learning – Feature Extraction and Reverse Image Search on Caltech-101 Dataset
+  
   In this Lab, we  will guide you through the process of analyzing an image dataset using a pre-trained convolution network (VGG16) and extracting feature vectors for each image.[Jump to the Lab Notebook](https://github.com/krishnac7/Reverse_image_search)
   - Lab 7: Build and Train – Distributed Environment
 
