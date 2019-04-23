@@ -36,11 +36,13 @@ https://github.com/krishnac7/Reverse_image_search
 
 
   - Lab 9: Operationalize AI Lifecycle- Monitor Fairness/Accuracy
+    Ensure AI models are free from bias, can be easily explained and understood by business users, and are auditable in   
+    business transactions.
   
-  [Monitor Watson Machine Learning model With Watson OpenScale](https://developer.ibm.com/patterns/monitor-performance-fairness-and-quality-of-a-wml-model-with-ai-openscale-apis/)
+    [Monitor Watson Machine Learning model With Watson OpenScale](https://developer.ibm.com/patterns/monitor-performance-fairness-and-quality-of-a-wml-model-with-ai-openscale-apis/)
   
-  [Monitor custom machine learning engine with Watson OpenScale](https://developer.ibm.com/patterns/monitor-custom-machine-learning-engine-with-ai-openscale/)
+    [Monitor custom machine learning engine with Watson OpenScale](https://developer.ibm.com/patterns/monitor-custom-machine-learning-engine-with-ai-openscale/)
 
-  [Monitor Azure machine learning with Watson OpenScale](https://developer.ibm.com/patterns/monitor-azure-machine-learning-studio-models-with-ai-openscale/)
+    [Monitor Azure machine learning with Watson OpenScale](https://developer.ibm.com/patterns/monitor-azure-machine-learning-studio-models-with-ai-openscale/)
 
-  [Monitor Sagemaker machine learning with Watson OpenScale](https://developer.ibm.com/patterns/monitor-amazon-sagemaker-machine-learning-models-with-ai-openscale/)
+    [Monitor Sagemaker machine learning with Watson OpenScale](https://developer.ibm.com/patterns/monitor-amazon-sagemaker-machine-learning-models-with-ai-openscale/)
