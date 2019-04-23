@@ -36,8 +36,9 @@ https://github.com/krishnac7/Reverse_image_search
 
 
   - Lab 9: Operationalize AI Lifecycle- Monitor Fairness/Accuracy
+  
     Ensure AI models are free from bias, can be easily explained and understood by business users, and are auditable in   
-    business transactions.
+    business transactions using [Watson OpenScale](https://cloud.ibm.com/docs/services/ai-openscale?topic=ai-openscale-gettingstarted#gettingstarted)
   
     [Monitor Watson Machine Learning model With Watson OpenScale](https://developer.ibm.com/patterns/monitor-performance-fairness-and-quality-of-a-wml-model-with-ai-openscale-apis/)
   
