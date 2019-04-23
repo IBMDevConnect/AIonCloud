@@ -11,25 +11,23 @@ Unlock the power of AI with IBM Cloud
 
 # Lab Content
 
-  -  Lab 1:   Data Governance
+  -  Lab 1: Data Governance
 
   - Lab 2: Data Refinery
 
   - Lab 3: Data Preprocessing 
 
-  - Lab 4: Understand basics of ML pipeline using Watson Studio
+  - Lab 4: Deploy your Model as API Using WML Pipeline
 
-  - Lab 5: Expose the model as API endpoint using Watson Machine Learning (WML)
+  - Lab 5: Data Model – Build a Recommendation Engine
 
-  - Lab 6: Data Model – Build a Recommendation Engine
+  - Lab 6: Deep Learning – Build a GAN based
 
-  - Lab 7: Deep Learning – Build a GAN based
+  - Lab 7: Build and Train – Distributed Environment
 
-  - Lab 8: Build and Train – Distributed Environment
+  - Lab 8: Computer Vision – Accelerated WML
 
-  - Lab 7: Computer Vision – Accelerated WML
-
-  - Lab 8: Model Bias
+  - Lab 9: Model Bias
 
  
 
