@@ -40,10 +40,10 @@ Data is fit using Random forests Pipeline to create the predictive Model and the
   
     Ensure AI models are free from bias, can be easily explained and understood by business users, and are auditable in     business transactions using [Watson OpenScale](https://cloud.ibm.com/docs/services/ai-openscale?topic=ai-openscale-gettingstarted#gettingstarted)
   
-    [Monitor Watson Machine Learning model With Watson OpenScale](https://developer.ibm.com/patterns/monitor-performance-fairness-and-quality-of-a-wml-model-with-ai-openscale-apis/)
-  
-    [Monitor custom machine learning engine with Watson OpenScale](https://developer.ibm.com/patterns/monitor-custom-machine-learning-engine-with-ai-openscale/)
+    In [Monitor Watson Machine Learning model With Watson OpenScale](https://developer.ibm.com/patterns/monitor-performance-fairness-and-quality-of-a-wml-model-with-ai-openscale-apis/) lab, you will use German credit data to train, create, and deploy a machine learning model using Watson Machine Learning and monitor accuracy, fairness using Watson OpenScale.
+    
+    In [Monitor custom machine learning engine with Watson OpenScale](https://developer.ibm.com/patterns/monitor-custom-machine-learning-engine-with-ai-openscale/) lab, you will use Keras to build a deep learning REST API and monitor with Watson OpenScale.
 
-    [Monitor Azure machine learning with Watson OpenScale](https://developer.ibm.com/patterns/monitor-azure-machine-learning-studio-models-with-ai-openscale/)
+    In [Monitor Azure machine learning with Watson OpenScale](https://developer.ibm.com/patterns/monitor-azure-machine-learning-studio-models-with-ai-openscale/) lab, you will use sales data to create a logistic regression model using Azure and also use Watson OpenScale to bind the machine learning model deployed in the Azure cloud, create a subscription, and perform payload and feedback logging.
 
-    [Monitor Sagemaker machine learning with Watson OpenScale](https://developer.ibm.com/patterns/monitor-amazon-sagemaker-machine-learning-models-with-ai-openscale/)
+   In [Monitor Sagemaker machine learning with Watson OpenScale](https://developer.ibm.com/patterns/monitor-amazon-sagemaker-machine-learning-models-with-ai-openscale/) lab, you will use UC Irvine machine learning data to create a logistic regression model using Amazon SageMaker and use Watson OpenScale to bind the machine learning model deployed in the AWS cloud, create a subscription, and perform payload and feedback logging.
